@@ -1,7 +1,5 @@
 # Plugins
-| Plugin | Poggit |
-| ------ | ------ |
-| **Form Interaction Fix:**<br/>Form interaction spam blocker,<br/>works on the entire PM server. | [![](https://poggit.pmmp.io/shield.dl/FormInteractionFix)](https://poggit.pmmp.io/p/FormInteractionFix) |
+**[Form Interaction Fix:](https://poggit.pmmp.io/p/FormInteractionFix)** Form interaction spam blocker, works on the entire PM server.
 
 # Hint: Download plugins with `wget`.
 > **Warning** *nix only. **Does not work if your server runs on Windows.**
