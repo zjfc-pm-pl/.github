@@ -1,5 +1,5 @@
 # Plugins
-[![Form Interaction Fix](https://github-readme-stats.vercel.app/api/pin/?username=Endermanbugzjfc&repo=FormInteractionFix&hide_border=true)](https://github.com/Endermanbugzjfc/FormInteractionFix)
+[![Form Interaction Fix](https://github-readme-stats.vercel.app/api/pin/?username=Endermanbugzjfc&repo=FormInteractionFix&title_color=2c98ff&text_color=9e9e9e&icon_color=2c98ff&bg_color=0d1117&hide_border=true)](https://github.com/Endermanbugzjfc/FormInteractionFix)
 
 # Hint: Download plugins with `wget`.
 > **Warning** *nix only. **Does not work if your server runs on Windows.**
