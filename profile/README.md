@@ -1,5 +1,5 @@
 # Plugins
-**[Form Interaction Fix:](https://poggit.pmmp.io/p/FormInteractionFix)** Form interaction spam blocker, works on the entire PM server.
+[![Form Interaction Fix](https://github-readme-stats.vercel.app/api/pin/?username=Endermanbugzjfc&repo=FormInteractionFix&hide_border=true)](https://github.com/Endermanbugzjfc/FormInteractionFix)
 
 # Hint: Download plugins with `wget`.
 > **Warning** *nix only. **Does not work if your server runs on Windows.**
