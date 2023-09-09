@@ -1,5 +1,6 @@
 # Plugins
 [![No Bedrock Bridging](https://github-readme-stats.vercel.app/api/pin/?username=Endermanbugzjfc&repo=NoBedrockBridging&title_color=2c98ff&text_color=9e9e9e&icon_color=2c98ff&bg_color=0d1117&hide_border=true)](https://github.com/Endermanbugzjfc/NoBedrockBridging)
+[![Glass Pain](https://github-readme-stats.vercel.app/api/pin/?username=Endermanbugzjfc&repo=GlassPain&title_color=2c98ff&text_color=9e9e9e&icon_color=2c98ff&bg_color=0d1117&hide_border=true)](https://github.com/Endermanbugzjfc/GlassPain)
 
 # Hint: Download plugins with `wget`.
 > **Warning** *nix only. **Does not work if your server runs on Windows.**
